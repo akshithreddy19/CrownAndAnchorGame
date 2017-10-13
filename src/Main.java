@@ -88,6 +88,8 @@ public class Main {
                         System.out.println("Roled over as No Spin/Throw all wagers shall be void on that spin/throw");
                     }
                 } //while
+// issue 08 fixation 
+ // balance update 
 
                 System.out.print(String.format("%d turns later.\nEnd Game %d: ", turn, i));
                 System.out.println(String.format("%s now has balance %d\n", player.getName(), player.getBalance()));
